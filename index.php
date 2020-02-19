@@ -5,6 +5,7 @@
         <title>Agendamento</title>
     </head>
     <body> 
-        Atividades: 
+        <p>Atividades:</p>
+       
     </body>
 </html>
